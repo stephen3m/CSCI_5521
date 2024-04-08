@@ -1,0 +1,57 @@
+Prediction results for Gaussian Discriminant with class-dependent covariance
+[2. 2. 2. 1. 2. 2. 2. 2. 2. 2. 2. 2. 2. 2. 1. 2. 2. 2. 2. 2. 2. 1. 2. 1.
+ 2. 2. 2. 2. 1. 1. 1. 2. 2. 2. 2. 2. 2. 2. 1. 2. 2. 2. 2. 2. 1. 2. 2. 2.
+ 1. 2. 2. 2. 2. 2. 1. 2. 2. 2. 2. 1. 2. 2. 1. 1. 2. 2. 1. 2. 2. 2. 2. 2.
+ 2. 1. 2. 2. 2. 2. 2. 2. 2. 2. 2. 2. 2. 2. 2. 1. 1. 2. 2. 1. 2. 2. 2. 2.
+ 2. 2. 2. 2.]
+Confusion Matrix for Gaussian Discriminant with class-dependent covariance
+[[14  5]
+ [16 65]]
+
+Prediction results for Gaussian Discriminant with class-independent covariance
+[1. 2. 2. 1. 2. 1. 1. 2. 1. 1. 1. 1. 2. 1. 2. 2. 1. 2. 2. 2. 2. 1. 1. 1.
+ 2. 2. 2. 2. 1. 1. 1. 2. 2. 2. 1. 1. 2. 2. 1. 2. 1. 2. 2. 2. 1. 2. 2. 2.
+ 1. 2. 2. 2. 2. 2. 1. 2. 2. 2. 1. 1. 1. 1. 2. 2. 1. 1. 1. 2. 1. 2. 2. 2.
+ 2. 1. 2. 2. 2. 1. 1. 2. 2. 2. 2. 2. 1. 2. 2. 1. 1. 2. 2. 1. 2. 2. 2. 2.
+ 2. 2. 2. 2.]
+Confusion Matrix for Gaussian Discriminant with class-independent covariance
+[[29  9]
+ [ 1 61]]
+
+Prediction results for Gaussian Discriminant with diagonal covariance
+[1. 2. 1. 1. 2. 1. 1. 2. 1. 1. 2. 1. 2. 1. 1. 2. 1. 2. 2. 2. 1. 1. 2. 1.
+ 2. 2. 2. 2. 1. 1. 1. 2. 2. 1. 1. 1. 2. 2. 1. 2. 1. 2. 2. 2. 1. 2. 2. 2.
+ 1. 2. 2. 2. 1. 2. 1. 2. 2. 2. 1. 1. 2. 1. 2. 1. 1. 1. 1. 2. 1. 2. 2. 2.
+ 2. 1. 2. 2. 2. 1. 2. 2. 2. 2. 2. 2. 2. 2. 2. 1. 1. 2. 2. 1. 1. 2. 2. 2.
+ 2. 2. 1. 2.]
+Confusion Matrix for Gaussian Discriminant with diagonal covariance
+[[28 13]
+ [ 2 57]]
+--------------------------------------------------------------------------
+Prediction results for Gaussian Discriminant with class-dependent covariance (stays the same)
+ [2. 2. 2. 1. 2. 2. 2. 2. 2. 2. 2. 2. 2. 2. 1. 2. 2. 2. 2. 2. 2. 1. 2. 1.
+ 2. 2. 2. 2. 1. 1. 1. 2. 2. 2. 2. 2. 2. 2. 1. 2. 2. 2. 2. 2. 1. 2. 2. 2.
+ 1. 2. 2. 2. 2. 2. 1. 2. 2. 2. 2. 1. 2. 2. 1. 1. 2. 2. 1. 2. 2. 2. 2. 2.
+ 2. 1. 2. 2. 2. 2. 2. 2. 2. 2. 2. 2. 2. 2. 2. 1. 1. 2. 2. 1. 2. 2. 2. 2.
+ 2. 2. 2. 2.]
+Confusion Matrix for Gaussian Discriminant with class-dependent covariance
+[[14  5]
+ [16 65]]
+Prediction results for C2 WITH REPLACEMENT OF DISCRIMINANT FUNCTION FROM C1
+[2. 2. 2. 1. 2. 2. 2. 2. 2. 2. 2. 2. 2. 2. 1. 2. 2. 2. 2. 2. 2. 1. 2. 1.
+ 2. 2. 2. 2. 1. 1. 1. 2. 2. 2. 2. 2. 2. 2. 1. 2. 2. 2. 2. 2. 1. 2. 2. 2.
+ 1. 2. 2. 2. 2. 2. 1. 2. 2. 2. 2. 1. 2. 2. 1. 1. 2. 2. 1. 2. 2. 2. 2. 2.
+ 2. 1. 2. 2. 2. 2. 2. 2. 2. 2. 2. 2. 2. 2. 2. 1. 1. 2. 2. 1. 2. 2. 2. 2.
+ 2. 2. 2. 2.]
+Confusion Matrix for Gaussian Discriminant with class-independent covariance
+[[14  5]
+ [16 65]]
+Prediction results for C3 WITH REPLACEMENT OF DISCRIMINANT FUNCTION FROM C1
+[1. 2. 1. 1. 2. 1. 1. 2. 1. 1. 2. 1. 2. 1. 1. 2. 1. 2. 2. 2. 1. 1. 2. 1.
+ 2. 2. 2. 2. 1. 1. 1. 2. 2. 1. 1. 1. 2. 2. 1. 2. 2. 2. 2. 2. 1. 2. 2. 2.
+ 1. 2. 2. 2. 2. 2. 1. 2. 2. 2. 1. 1. 2. 1. 2. 1. 1. 1. 1. 2. 1. 2. 2. 2.
+ 2. 2. 2. 2. 2. 1. 2. 2. 2. 2. 2. 2. 2. 2. 2. 1. 1. 2. 2. 1. 2. 2. 2. 2.
+ 2. 2. 1. 2.]
+Confusion Matrix for Gaussian Discriminant with diagonal covariance
+[[26 11]
+ [ 4 59]]
